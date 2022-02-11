@@ -34,11 +34,6 @@ public class Context_Click
 		r.keyRelease(KeyEvent.VK_DOWN);
 		r.keyPress(KeyEvent.VK_ENTER);
 		r.keyRelease(KeyEvent.VK_ENTER);
-		
-		
-		
-		
-	
 	}
 	
 }
